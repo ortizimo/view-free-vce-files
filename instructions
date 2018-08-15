@@ -1,0 +1,67 @@
+**********************************************
+Straightforward Training™
+How to view VCE files for free...permanently
+Author: Saulo S. Ortiz
+Date: 20180814
+**********************************************
+
+DISCLAIMER
+1.  This guide reflects changes for Bluestacks, ES File Explorer and A+ VCE
+Player from the original 2016 source. The steps gathered in this guide come from
+several different sources which are freely available throughout the Internet.
+
+2.	As always, I am not responsible for any issues/damages to hardware or software
+by using any of the software mentioned in this guide nor by following it…do so at
+your own risk. I have tested these steps myself and found no issues/damage to my own
+systems. Also I am not responsible for software links, software availability or condition.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Download and install Bluestacks (https://www.bluestacks.com/download.html?utm_campaign=homepage-dl-button-en)
+	-This will give you an emulated Android screen just like in a cellphone
+
+2. Use a gmail account to log into Google Play Store
+
+3. Use the search box (top right corner) and search and install A+ VCE Player
+	-Use ESC to exit
+
+4. Now search and install ES File Explorer
+
+5. Download any .vce files you want to study
+	-examsforall.com, examcollection.com, vceplus.com
+
+6. Run ES File Explorer
+	-Hit right 3 times
+
+7. In Windows Explorer/File Explorer take the .vce files and put them in:
+	C:\BlueStacks\BlueStacks\Engine\UserData\SharedFolder
+
+8. Reboot Bluestacks
+
+9. Go back into ES File Explorer and select Internal Storage > DCIM > SharedFolder
+and confirm the files are in there
+
+10. Go to the Home tab and select My Apps
+
+11. Run A+ VCE Silver
+	-This is the player
+
+12. Click Allow then NO to introductory exams
+
+13. Click the ADD icon on the top right then File
+
+14. Navigate tot he /storage/emulated/0/DCIM/SharedFolder directory and select any
+.vce file
+
+15. Click on the START button on the top right
+
+16. You now have access to all .vce files (old and new) without having to pay $69
+every time they decide to update the VCE Designer program which locks down the old
+vce files and obligates you to pay for the update again and again
+
+17. On top of the MARK icon its the ANSWER option
+
+18. You're welcome!
